@@ -32,7 +32,7 @@ Clique em [Bikcraft](https://bikcraft-tan-gamma.vercel.app/)🔗 para acessar.
 ◽ <a href="https://github.com/Eduardo1985S/bikcraft/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
-       $ git clone https://github.com/brseghese/origamid-bikcraft.git
+       $ git clone https://github.com/Eduardo1985S/bikcraft.git
 
 <h3 id="instalacao">🛠️ Instalação</h3>
 
